@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 Requirements include packages for image processing, machine learning, and data handling:
 - [OpenCV](https://opencv.org/)
-- [TensorFlow](https://www.tensorflow.org/) or [PyTorch](https://pytorch.org/)
+- [TensorFlow](https://www.tensorflow.org/) 
 - [NumPy](https://numpy.org/)
 
 ## Usage
@@ -81,9 +81,6 @@ The output includes:
 - Segmented lung images showing COVID-19-affected areas.
 - Damage scores and potential risk assessments.
 
-## Contributing
-
-Contributions are welcome! Please open an issue to discuss any changes or enhancements before submitting a PR.
 
 ## License
 
