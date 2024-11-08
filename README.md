@@ -28,7 +28,7 @@ COVID-19 can cause serious damage to lung tissue, with long-term health implicat
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/covid19-lung-image-processing.git
+git clone https://github.com/Bhadrinathanvt/covid19-lung-image-processing.git
 cd covid19-lung-image-processing
 pip install -r requirements.txt
 ```
